@@ -1,0 +1,135 @@
+
+  #container{
+    background: #B7D3DF;
+    padding-top: 5rem;
+  }
+ 
+  .heading0 > h5 {
+    margin-bottom:16px;     
+    color: #3b3b3b;
+    font-size:1rem;
+    font-family: var(--global-text-font-family);
+    font-weight: 540;
+  }
+
+  /* .heading2 {
+
+    color: #3b3b3b;
+    font-size:1.9rem;
+    font-family: var(--global-text-font-family);
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .heading3 {
+    color: #3b3b3b;
+    font-size:1.4rem;
+    font-family: var(--global-text-font-family);
+    text-align: left;
+  }
+
+  .heading4 {
+    color: rgb(0, 0, 0);
+    font-size:0.9rem;
+    font-family: var(--global-text-font-family);
+    text-align: left;
+    padding-bottom: 2rem;
+  } */
+
+  .landingSVGbox {
+    width: 100%;
+  }
+
+  .landingSVGbox > img {
+    width: 100%;
+    height: auto;
+  }
+    
+  @media (max-width: 1400px){
+    .landingtextbox {     
+      height: 300px;
+
+    }
+      .heading0 >h5{
+        font-size:1rem;     
+      }    
+
+    /* .heading1 {
+   
+      font-size:1.6rem;
+   
+    }
+    
+    .heading2 {    
+      font-size:1.4rem;     
+    }
+    
+    .heading3 {
+     
+      font-size:0.9rem;
+    
+    } */
+  
+  
+  }
+  
+  
+  @media (max-width: 1023px){
+  
+    /* .heading1 {   
+      font-size:1.6rem;      
+    } */
+
+    .heading0 >h5{
+      font-size:0.9rem;     
+    }    
+  
+    #container{
+      padding-top: 4rem;
+    }
+    .cards {   
+    
+      grid-template-columns: repeat(1, 1fr);      
+      }
+    
+      .landingtextbox {     
+        height: 300px;
+        padding-top: 60px;  
+  }
+    /* .heading2 {    
+      font-size:1.3rem;     
+    }
+    
+    .heading3 {     
+      font-size:1rem;    
+    } */
+
+    .landingSVGbox {
+      padding-top: 30px;
+      
+    }
+      
+   
+    
+  }
+  
+  
+  @media (max-width: 639px){
+  
+    .heading0 >h5{
+      font-size:0.8rem;     
+    }    
+    .cards {   
+      grid-template-columns: repeat(1, 1fr);      
+      }
+    
+    
+    
+    .landingSVGbox {
+      
+      height: 250px;
+      }
+   
+  }
+  
+  

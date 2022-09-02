@@ -1,0 +1,88 @@
+#container{
+  background-color: #f2f2f2; 
+}
+
+.mainheading{   
+  text-align: left;
+  height: 150px;
+  background-color: #f2f2f2; 
+}
+
+.mainheading > h4{   
+   
+  font-size:1.2rem;
+  font-family: var(--global-text-font-family);
+    text-align: left;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+.mainheading > h1{   
+  text-rendering: optimizeSpeed;
+  text-align: left;
+  font-family: var(--global-text-font-family);
+    font-size: 5rem;
+    word-wrap: break-word;
+    line-height: 1.1;
+    font-weight: 900;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(left, #0696a7, #216b67, #030c2c);
+    background: -o-linear-gradient(right, #04aabe, #09736e, #030c2c);
+    background: -moz-linear-gradient(right, #04aabe, #09736e, #030c2c);
+    background: linear-gradient(to right, #04aabe , #09736e, #030c2c); 
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.mainheading > h1:after {
+  filter:drop-shadow(3px 3px 5px rgb(187 187 187));
+  }
+
+
+@media (max-width: 1400px){
+
+  .mainheading > h4{   
+   
+    font-size:1.2rem;
+   
+  }
+  
+  .mainheading > h1{   
+  font-size: 4.5rem;
+  }
+  
+  }
+  
+  
+  @media (max-width: 1023px){
+  
+    .mainheading > h4{   
+   
+      font-size:0.9rem;
+     
+    }
+    
+    .mainheading > h1{   
+    font-size: 3.5rem;
+    }
+  }
+  
+  
+  @media (max-width: 639px){
+  
+    .mainheading > h4{   
+   
+      font-size:0.8rem;
+     
+    }
+    
+    .mainheading > h1{   
+    font-size: 2.2rem;
+    }
+
+  
+  }
+  

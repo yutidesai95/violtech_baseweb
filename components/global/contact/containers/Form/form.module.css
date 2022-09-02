@@ -1,0 +1,152 @@
+.formcard{
+  padding: 15px;
+  }  
+
+  .formcontainer {
+    box-shadow:rgb(48, 61, 36);
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    border-radius:0px;
+  }
+
+.contactheading >h3{
+    color: black;
+    font-size: 1.5rem;
+    font-family: var(--global-text-font-family);
+    font-weight: normal;
+  }
+
+  .contactsubheading >h6{
+    color: black;
+    font-size: 0.9rem;
+    font-family: var(--global-text-font-family);
+    height: 3rem;
+    font-weight: normal;
+  }
+  
+  .inputcls {
+    width: 100%;
+    padding: 1.5%;
+    border: 1px solid #3b3b3b;
+    resize: vertical;
+    font-size: 0.9rem;
+    resize: none;
+    border: 1px solid #1e1e1e;
+    font-family: var(--global-text-font-family);    
+    padding: 12px;
+    line-height: 1.56;
+    color: #3b3b3b;
+    outline: none !important;
+    border-radius: 0px;
+  }
+  
+  
+  .submitcls {
+
+    border: 2px solid black;
+    background: #3b3b3b !important;
+    color: #ffffff !important;
+    font-weight: normal;
+    font-family: var(--global-text-font-family);
+    font-size: 1rem;
+    padding: 15px;
+    border-radius: 0px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .submitcls:hover {
+    border: 2px solid black;
+    color: black !important;
+    font-weight: 100 !important;
+    letter-spacing: 2px;
+    background: transparent !important;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.3s ease 0s;
+  }
+
+
+  
+  .col {
+    float: left;
+    width: 100%;
+    margin-top: -1px;
+  }
+  .row{
+    display: flex;
+    justify-content: center;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  @media (max-width: 1400px){
+    .contactheading >h3{   
+      font-size: 1.4rem;
+      padding-top: 1rem;
+    }
+  
+    .contactsubheading >h6{     
+      font-size: 0.9rem;
+      height: 4rem;
+    }
+
+    .inputcls {    
+      font-size: 0.9rem;
+    }
+   }
+   
+   
+   @media (max-width: 1023px) {
+    .contactheading >h3{
+   
+      font-size: 1.3rem;
+      padding-top: 1rem;
+      height: 70px;
+
+    }
+  
+    .contactsubheading >h6{ 
+      font-size: 1.2rem;
+      height: 80px;
+    }
+
+    .inputcls {
+     
+      font-size: 1rem;
+    }
+   }
+   
+   @media (max-width: 639px){
+  
+    .col, .submitcls {
+      width: 100%;
+      margin-top: -1px;
+    }
+    
+    .contactheading >h3{
+     
+      font-size: 1.5rem;
+      padding-top: 2rem;
+  
+    }
+
+    .contactsubheading >h6{
+   
+      font-size: 1rem;
+  
+    }
+
+    .inputcls {
+     
+      font-size: 1rem;
+    }
+
+   }
+   

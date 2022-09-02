@@ -1,0 +1,1214 @@
+
+.contentbox{
+  
+    width: 100%;
+    height: 300px;
+  }
+  
+  .heading1 >h2{
+    text-rendering: optimizeSpeed;
+    color: #3b3b3b;
+    text-align: left;
+      font-family: var(--global-text-font-family);
+      font-size: 1.8rem;
+      word-wrap: break-word;
+      font-weight:700;
+      line-height: 1.1;
+  }
+  
+  .heading2 >h3{
+    font-size: 1.4rem;
+      text-align: left;
+      padding-top: 16px;
+      text-rendering: optimizeSpeed;
+      color: #3b3b3b;
+      font-family: var(--global-text-font-family);
+      font-weight: 300;
+      line-height: 1.46;
+  }
+  
+  .svgboxcard {
+    padding-top: 4px;
+   height: 500px;
+   max-width: 390px;
+  
+  }
+
+  .svgboxcard > svg{
+    width: 100%;
+    height: auto;
+  }
+
+   #Plantframe {
+    animation: changeColorplantframe 2s infinite alternate;
+  }
+  
+  @keyframes changeColorplantframe {
+    0% {
+      fill: rgb(240, 196, 196);
+    }
+    100% {
+      fill: rgb(95, 121, 32);
+    }
+  }
+ 
+  
+  #Leaf {
+    animation: changecolorleaf 2s infinite alternate;
+  }
+  
+  @keyframes changecolorleaf {
+    0% {
+      fill: rgb(128, 126, 126);
+    }
+    100% {
+      fill: rgb(135, 218, 12);
+    }
+  }
+ 
+  #Leaf_2 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Leaf_3 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Leaf_4 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Leaf_5 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Leaf_6 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Leaf_7 {
+   animation: changecolorleaf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorleaf {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_2 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_3 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_4 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_5 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_6 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_7 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_8 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_9 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_10 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+ #Stem_11 {
+   animation: changecolorstem 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorstem {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(135, 218, 12);
+   }
+ }
+ 
+  
+  #Plantsun {
+    animation: bounce 2s infinite ease-out alternate;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(70px);
+    }
+    100% {
+      transform: translateY(-5px);
+    }
+  }
+ 
+  /* #Hillsun {
+    animation: hillsunbounce 1.5s infinite ease-out alternate;
+  }
+  
+  @keyframes hillsunbounce {
+    0% {
+      transform: translateY(40px);
+    }
+    100% {
+      transform: translateY(-5px);
+    }
+  }
+ 
+  #Hillframe {
+    animation: changeColorHillFrame 1.5s infinite alternate;
+  }
+  
+  @keyframes changeColorHillFrame {
+    0% {
+      fill: rgb(44, 43, 58);
+    }
+    50% {
+     fill: rgb(49, 63, 143);
+    }
+    100% {
+      fill: rgb(130, 160, 235);
+    }
+  }
+ 
+  #Hills {
+    animation: changeColorHills 2s infinite alternate;
+  }
+  
+  @keyframes changeColorHills {
+    0% {
+      fill: rgb(66, 138, 156);
+    }
+    100% {
+      fill: rgb(168, 227, 250);
+    }
+  }
+ 
+  #Firstsq {
+    animation: firstsqbounce 2s infinite alternate;
+  }
+  
+  @keyframes firstsqbounce {
+    0% {
+      transform: translateX(-27px);
+      transform: translateY(-27px);
+ 
+    }
+    100% {
+      transform: translateX(27px);
+     
+    }
+  }
+ 
+  #Frame2 {
+    animation: frame2bounce 2s infinite alternate;
+  }
+  
+  @keyframes frame2bounce {
+    0% {
+      transform: translateX(175px);
+    }
+    100% {
+      transform: translateX(-56px);
+    }
+  }
+  */
+ 
+  #Frameplants1{
+    animation: rotateplant1 5s infinite alternate;
+  transform-origin: bottom left;
+  transform-box: fill-box;
+  }
+ 
+  @keyframes rotateplant1 {
+    0% {
+      transform: rotate(30deg);
+    }
+    70% {
+      transform: rotate(-30deg);
+    }
+  }
+ 
+  #Frameplants2{
+    animation: rotateplant2 3s infinite alternate;
+  transform-origin: bottom left;
+  transform-box: fill-box;
+  }
+ 
+  @keyframes rotateplant2 {
+    0% {
+      transform: rotate(-20deg);
+    }
+    100% {
+      transform: rotate(25deg);
+    }
+  }
+ 
+  #Frame3 {
+    animation: frame3bounce 4s infinite alternate;
+  }
+  
+  @keyframes frame3bounce {
+    0% {
+      transform: translateX(75px);
+    }
+    100% {
+      transform: translateX(-56px);
+    }
+  }
+ 
+  #Frame1 {
+    animation: frame1bounce 2s infinite ease-out alternate;
+  }
+  
+  @keyframes frame1bounce {
+    0% {
+      transform: translateX(85px);
+    }
+    100% {
+      transform: translateX(-16px);
+    }
+  }
+ 
+  #Firstframe {
+    animation: firstframebounce 3s infinite ease-out alternate;
+  }
+  
+  @keyframes firstframebounce {
+    0% {
+      transform: translateY(5px);
+    }
+    100% {
+      transform: translateY(-56px);
+    }
+  }
+ 
+  #Frame4 {
+    animation: frame4bounce 3s infinite alternate;
+  }
+  
+  @keyframes frame4bounce {
+    0% {
+      transform: translateX(30px);
+    }
+    50% {
+      transform: translateY(85px);
+    }
+    100% {
+      transform: translateX(-50px);
+    }
+  }
+ 
+  #Upperframe {
+    animation: upperframebounce 2s infinite ease-out alternate;
+  }
+  
+  @keyframes upperframebounce {
+    0% {
+      transform: translateX(-38px);
+    }
+    100% {
+      transform: translateY(54px);
+    }
+  }
+ 
+  #Frame6 {
+    animation: frame6bounce 4s ease-in infinite alternate;
+  }
+  
+  @keyframes frame6bounce {
+    0% {
+      transform: translateY(55px);
+    }
+    50% {
+      transform: translateX(-95px);
+    }
+    70% {
+      transform: translateY(-46px);
+    }
+    100%{
+      transform: translateX(46px);
+    }
+  }
+ 
+  #Secbox {
+    animation: secboxbounce 2s infinite ease-in alternate;
+  }
+  
+  @keyframes secboxbounce {
+    0% {
+      transform: translateY(-55px);
+    }
+    100% {
+      transform: translateY(3px);
+    }
+  }
+ 
+  #Thirdbox {
+    animation: thirdboxbounce 2s infinite ease-in alternate;
+  }
+  
+  @keyframes thirdboxbounce {
+    0% {
+      transform: translateY(-33px);
+    }
+    100% {
+    transform: translateY(3px);
+    }
+  }
+ 
+  #Face{
+    animation: rotateface 3s infinite alternate;
+  transform-origin: bottom left;
+  transform-box: fill-box;
+  }
+ 
+  @keyframes rotateface {
+    0% {
+      transform: rotate(-5deg);
+    }
+    100% {
+      transform: rotate(15deg);
+    }
+  }
+ 
+  #Frame5 {
+    animation: frame5bounce 2s infinite ease-out alternate;
+  }
+  
+  @keyframes frame5bounce {
+    0% {
+      transform: translateY(15px);
+    }
+    100% {
+      transform: translateY(-66px);
+    }
+  }
+ 
+  
+  #Bigframe {
+    animation: changeColorbigframe 4s infinite alternate;
+  }
+  
+  @keyframes changeColorbigframe {
+    0% {
+      fill: rgb(19, 14, 82);
+    }
+    100% {
+      fill: rgb(5, 91, 94);
+    }
+  }
+ 
+  #Box1 {
+   animation: box1bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box1bounce {
+   0% {
+     transform: translateX(358px);
+   }
+   100% {
+     transform: translateX(-1px);
+   }
+ }
+ 
+ #Box2 {
+   animation: box2bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box2bounce {
+   0% {
+     transform: translateX(358px);
+   }
+   100% {
+     transform: translateX(-1px);
+   }
+ }
+ 
+ #Box3 {
+   animation: box3bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box3bounce {
+   0% {
+     transform: translateY(270px);
+   }
+   100% {
+     transform: translateY(-1px);
+   }
+ }
+ 
+ #Box4 {
+   animation: box4bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box4bounce {
+   0% {
+     transform: translateY(-270px);
+   }
+   100% {
+     transform: translateY(1px);
+   }
+ }
+ 
+ #Box5 {
+   animation: box5bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box5bounce {
+   0% {
+     transform: translateX(-358px);
+   }
+   100% {
+     transform: translateX(1px);
+   }
+ }
+ 
+ #Box6 {
+   animation: box6bounce 2s infinite alternate;
+ }
+ 
+ @keyframes box6bounce {
+   0% {
+     transform: translateX(-358px);
+   }
+   100% {
+     transform: translateX(1px);
+   }
+ }
+ 
+ #Giftlid{
+   animation: rotategiftlid 1s infinite alternate;
+ transform-origin: bottom left;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotategiftlid {
+   0% {
+     transform: rotate(-18deg);
+   }
+   100% {
+     transform: rotate(2deg);
+   }
+ }
+ 
+ 
+ #Giftbox{
+   animation: rotategiftbox 1s infinite alternate;
+ transform-origin: bottom left;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotategiftbox {
+   0% {
+     transform: rotate(1deg);
+   }
+   100% {
+     transform: rotate(-2deg);
+   }
+ }
+ 
+ #Ribbinbow{
+   animation: rotateribbinbow 1s infinite alternate;
+ transform-origin: bottom left;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotateribbinbow {
+   0% {
+     transform: rotate(-38deg);
+   }
+   100% {
+     transform: rotate(2deg);
+   }
+ }
+ 
+ 
+ 
+ #Arrow {
+   animation: arrowbounce 1s infinite alternate;
+ }
+ 
+ @keyframes arrowbounce {
+   0% {
+     transform: translateX(-5px);
+   }
+   100% {
+     transform: translateX(5px);
+   }
+ }
+ 
+ #Writtenbar2 {
+   animation: writtenbar2bounce 2s infinite alternate;
+ }
+ 
+ @keyframes writtenbar2bounce {
+   0% {
+     transform: translateX(-5px);
+   }
+   100% {
+     transform: translateX(5px);
+   }
+ } 
+ 
+ #Writtenbar1 {
+   animation: writtenbar1bounce 2s infinite alternate;
+ }
+ 
+ @keyframes writtenbar1bounce {
+   0% {
+     transform: translateX(5px);
+   }
+   100% {
+     transform: translateX(-5px);
+   }
+ } 
+ 
+ 
+ #Onlineshop {
+   animation: onlineshopbounce 2s infinite alternate;
+ }
+ 
+ @keyframes onlineshopbounce {
+   0% {
+     transform: translateX(0px);
+   }
+   100% {
+     transform: translateX(-50px);
+   }
+ }
+ 
+ 
+ 
+ #Giftshop {
+   animation: giftshopbounce 5s infinite alternate;
+ }
+ 
+ @keyframes giftshopbounce {
+   0% {
+     transform: translateX(20px);
+   }
+   100% {
+     transform: translateX(-60px);
+   }
+ } 
+ 
+ 
+ #Rightboycard {
+   animation: rightboycardbounce 2s infinite alternate;
+ }
+ 
+ @keyframes rightboycardbounce {
+   0% {
+     transform: translateY(60px);
+   }
+   100% {
+     transform: translateY(-10px);
+   }
+ }
+ 
+ #Leftboycard {
+   animation: leftboycardbounce 2s infinite alternate;
+ }
+ 
+ @keyframes leftboycardbounce {
+   0% {
+     transform: translateY(70px);
+   }
+   100% {
+     transform: translateY(-30px);
+   }
+ }
+ 
+ #Girlcard {
+   animation: girlcardbounce 2s infinite alternate;
+ }
+ 
+ @keyframes girlcardbounce {
+   0% {
+     transform: translateY(-70px);
+   }
+   100% {
+     transform: translateY(5px);
+   }
+ }
+ 
+ #Girlcardface{
+   animation: rotategirlcardface 2s infinite alternate;
+ transform-origin: bottom right;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotategirlcardface {
+   0% {
+     transform: rotate(-9deg);
+   }
+   100% {
+     transform: rotate(10deg);
+   }
+ }
+ 
+ #Rightboycardface{
+   animation: rotaterightboycardface 2s infinite alternate;
+ transform-origin: bottom left;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotaterightboycardface {
+   0% {
+     transform: rotate(-9deg);
+   }
+   100% {
+     transform: rotate(10deg);
+   }
+ }
+ 
+ 
+ #Leftboycardface{
+   animation: rotateleftboycardface 2s infinite alternate;
+ transform-origin: bottom right;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotateleftboycardface {
+   0% {
+     transform: rotate(-15deg);
+   }
+   100% {
+     transform: rotate(15deg);
+   }
+ }
+ 
+ #Profiles{
+   animation: profilebounce 4s infinite alternate;
+ 
+ }
+ 
+ @keyframes profilebounce {
+   0% {
+     transform: translateY(-18px);
+   }
+   50% {
+     transform: translateX(-98px);
+   }
+   100% {
+     transform: translateY(20px);
+   }
+ }
+ 
+#centercardface{
+  animation: rotatecentercardface 2s infinite alternate;
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  }
+  
+  @keyframes rotatecentercardface {
+    0% {
+      transform: rotate(-9deg);
+    }
+    100% {
+      transform: rotate(10deg);
+    }
+  }
+
+
+ #cardborder{
+  animation: borderbounce 4s infinite alternate;
+ }
+
+ @keyframes borderbounce {
+  0% {
+    transform: translateY(-18px);
+  }
+  50% {
+    transform: translateX(-98px);
+  }
+  100% {
+    transform: translateY(20px);
+  }
+}
+ 
+ /* #Ring {
+   animation: rotatering 3s infinite alternate;
+ transform-origin: center;
+ transform-box: fill-box;
+ }
+ 
+ @keyframes rotatering {
+   0% {
+     transform: rotate(-30deg);
+   }
+   100% {
+     transform: rotate(14deg);
+   }
+ }
+ 
+ #Phone {
+   animation: phonebounce 2s infinite alternate;
+ }
+ 
+ @keyframes phonebounce {
+   0% {
+     transform: translateY(-30px);
+   }
+   100% {
+     transform: translateY(1px);
+   }
+ }
+ 
+ #Phonescreen {
+   animation: changecolorphonescreen 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorphonescreen {
+   0% {
+     fill: rgb(128, 126, 126);
+   }
+   100% {
+     fill: rgb(168, 209, 106);
+   }
+ }
+ 
+ #Lefthalf {
+   animation: changecolorlefthalf 2s infinite alternate;
+ }
+ 
+ @keyframes changecolorlefthalf {
+   0% {
+     fill: rgb(105, 92, 179);
+   }
+   100% {
+     fill: rgb(168, 209, 106);
+   }
+ }
+ 
+ 
+ #Locate1 {
+   animation: hideshow 6s ease infinite;
+ }
+ #Locate2 {
+   opacity: 0;
+   animation: hideshow 6s 1s ease infinite; 
+ }
+ #Locate3 {
+   opacity: 0;
+   animation: hideshow 6s 2s ease infinite;
+ }
+ #Locate4 {
+   opacity: 0;
+   animation: hideshow 6s 3s ease infinite;
+ }
+ #Locate5 {
+   opacity: 0;
+   animation: hideshow 6s 4s ease infinite;
+ }
+ #Locate6 {
+   opacity: 0;
+   animation: hideshow 6s 5s ease infinite;
+ }
+ @keyframes hideshow {
+   0% { opacity: 1; }
+   10% { opacity: 1; }
+   15% { opacity: 0; }
+   100% { opacity: 0; }
+ }
+  */
+ #Dupli1 {
+   animation: hideshow 4s ease infinite;
+ }
+ #Dupli2 {
+   opacity: 0;
+   animation: hideshow 4s 0.8s ease infinite; 
+ }
+ #Dupli3 {
+   opacity: 0;
+   animation: hideshow 4s 1.6s ease infinite;
+ }
+ #Dupli4 {
+   opacity: 0;
+   animation: hideshow 4s 2.4s ease infinite;
+ }
+ #Dupli5 {
+   opacity: 0;
+   animation: hideshow 4s 3.2s ease infinite;
+ }
+ 
+ 
+ @keyframes hideshow {
+   0% { opacity: 1; }
+   10% { opacity: 1; }
+   15% { opacity: 0; }
+   100% { opacity: 0; }
+ }
+ 
+ #Blueline1 {
+   animation: blueline1bounce 2s infinite alternate;
+ }
+ 
+ @keyframes blueline1bounce {
+   0% {
+     transform: translateX(-1px);
+   }
+   100% {
+     transform: translateX(20px);
+   }
+ }
+ 
+ #Blueline2 {
+   animation: blueline2bounce 2s infinite alternate;
+ }
+ 
+ @keyframes blueline2bounce {
+   0% {
+     transform: translateX(-1px);
+   }
+   100% {
+     transform: translateX(20px);
+   }
+ }
+ 
+ #Blueline3 {
+   animation: blueline3bounce 2s infinite alternate;
+ }
+ 
+ @keyframes blueline3bounce {
+   0% {
+     transform: translateX(-1px);
+   }
+   100% {
+     transform: translateX(20px);
+   }
+ }
+ 
+ 
+ #Earth {
+   animation: earthbounce 2s infinite alternate;
+ }
+ 
+ @keyframes earthbounce {
+   0% {
+     transform: translateX(-50px);
+   }
+   100% {
+     transform: translateX(20px);
+   }
+ }
+ 
+ /* #Chart {
+   animation: chartbounce 4s infinite alternate;
+ }
+ 
+ @keyframes chartbounce {
+   0% {
+     transform: translateX(-30px);
+   }
+   100% {
+     transform: translateX(20px);
+   }
+ } */
+ 
+ #Phonescreen {
+   animation: changeColorphonescreen 4s infinite alternate;
+ }
+ 
+ @keyframes changeColorphonescreen {
+   0% {
+     fill: rgb(19, 14, 82);
+   }
+   100% {
+     fill: rgb(5, 91, 94);
+   }
+ }
+ 
+ 
+   #frame1Landing {
+     animation: hideshow 24s ease infinite;
+   }
+ 
+   #frame2Checkout {
+     opacity: 0;
+     animation: hideshow 24s 3s ease infinite;
+   } 
+   #frame3Eshop {
+     opacity: 0;
+     animation: hideshow 24s 6s ease infinite;
+   }
+   #frame4Ecart {
+     opacity: 0;
+     animation: hideshow 24s 9s ease infinite;
+   }
+ 
+   #frame5Shipping {
+     opacity: 0;
+     animation: hideshow 24s 12s ease infinite;
+   }
+ 
+   #frame6Profiles {
+     opacity: 0;
+     animation: hideshow 24s 15s ease infinite;
+   }
+ 
+   #frame7Profile {
+     opacity: 0;
+     animation: hideshow 24s 18s ease infinite;
+   }
+ 
+   #frame8Analysis {
+     opacity: 0;
+     animation: hideshow 24s 21s ease infinite;
+   }
+ 
+ 
+ 
+  
+   @keyframes hideshow {
+     0% { opacity: 1; }
+     10% { opacity: 1; }
+     15% { opacity: 0; }
+     100% { opacity: 0; }
+   }
+ 
+ 
+
+  @media (max-width: 1400px){ 
+    .heading1 >h2{
+      
+      font-size: 1.7rem;
+    
+  }
+
+
+.heading2 >h3{
+font-size: 1.4rem;
+padding-top: 20px;
+
+}
+      .svgboxcard {
+  
+        height: 250px;
+        max-width: 350px;
+       
+       }
+
+  }
+  
+  
+  @media (max-width: 1023px) {
+  
+    .heading1 >h2{
+      
+      font-size: 1.6rem;
+    
+  }
+
+
+.heading2 >h3{
+font-size: 1.4rem;
+padding-top: 5px;
+padding-bottom: 10px;
+}
+
+
+  .svgboxcard {
+  
+    height: 400px;
+    max-width: 400px;
+   
+   }
+  
+  .contentbox{
+    height: 10px;
+
+  }
+  }
+  
+  
+  @media (max-width: 639px){
+
+    .heading1 >h2{
+      font-size:1.3rem;  
+     
+    }
+    
+    .heading2 >h3{
+        font-size:1.1rem;
+        padding-top: 5px;
+
+    }
+  
+  .svgboxcard {
+  
+    height: 300px;
+    max-width: 340px;
+  
+   }
+
+  
+  
+  .contentbox{
+    height: 160px;
+  
+  }
+
+  }
+  
+  

@@ -1,0 +1,117 @@
+#container{
+  background-color: #f2f2f2; 
+}
+.mainheading {
+	font-size: 6rem;
+}
+
+.button{    
+  
+  border: 2px solid black !important;
+  background: #000000 !important;
+  color: #ffffff !important;
+  font-weight: 100 !important;
+  font-size: 1.1rem ;
+  padding: 9px 18px ;
+  border-radius: 0px !important;
+  display: inline-block !important;
+  transition: all 0.5s ease 0s !important;
+  font-family:var(--global-text-font-family);
+  }
+  
+  .button:hover{
+    color: #000000 !important;
+    padding: px 28px !important;
+    background: white  !important;
+    /* -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57) !important; */
+    box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57) !important;
+    transition: all 0.2s ease 0s !important;
+  }
+
+.careerimage{
+	position: absolute;
+	top: 16rem;
+	right: 0rem;
+  height: 300px;
+  max-width: 410px;
+}
+
+.careerimage >img {
+  width:100%;
+  height:auto;
+}
+
+
+
+.buttonbox{
+	position: absolute;
+	top: 4rem;
+	left: 0rem;
+}
+
+@media (max-width: 1400px){
+
+.button{
+	font-size: 16px;
+    letter-spacing: 2px;
+    padding: 14px;
+    
+}
+.careerimage{ 
+  top:23rem;
+  right:0rem;
+   height: 250px;
+   max-width: 300px;  
+}
+  
+}
+
+
+@media (max-width: 1023px){
+   .button{
+    font-size: 1.3rem ;
+    padding: 8px 16px ;
+   }
+    .careerimage{ 
+    /* top:17rem;
+    right:0rem;
+     height: 190px;
+     max-width: 240px;  */
+     display: none;
+    }
+
+    .buttonbox{
+	
+      top:2rem;
+    
+    }
+}
+
+
+@media (max-width: 639px){
+
+  .button{    
+  
+  
+    font-size: 1rem;
+    padding: 7px 15px;
+  
+    }
+
+.buttonbox{
+	
+	top:4rem;
+
+}
+.careerimage{
+ /* top:30rem;
+  left:0rem;
+   height: 100px;
+   max-width: 210px;  */
+   display: none;
+ }
+ 
+  
+
+}
+
